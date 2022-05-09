@@ -23,24 +23,28 @@ This learning modules are divided mainly into two: learn & Practice notebooks.
 The  introduces the concepts with some code examples and the the latter help you practice by doing more abstarct things:
 
 - Learn Notebooks Tables
+
 |s/n|title|status (ticked/not-ticked)|
-|1|[intro](xyz.com)||
-|2|[data_types](xyz.com)||
-|3|[operators & conditionals](xyz.com)||
-|4|[functions](xyz.com)||
-|5|[oop & orm](xyz.com)||
+|--|------|---------------------------|
+|1|[intro](xyz.com)|svae|
+|2|[data_types](xyz.com)|svae|
+|3|[operators & conditionals](xyz.com)|svae|
+|4|[functions](xyz.com)|svae|
+|5|[oop & orm](xyz.com)|svae|
 
 - Practice Notebooks Tables
+
 |s/n|title|status (ticked/not-ticked)|
-|1|[intro](xyz.com)||
-|2|[data_types](xyz.com)||
-|3|[operators & conditionals](xyz.com)||
-|4|[functions](xyz.com)||
-|5|[oop & orm](xyz.com)||
+|--|------|---------------------------|
+|1|[intro](xyz.com)|save|
+|2|[data_types](xyz.com)|save|
+|3|[operators & conditionals](xyz.com)|save|
+|4|[functions](xyz.com)|save|
+|5|[oop & orm](xyz.com)|svae|
 
 ## Resources
 Some of the resources I learned from are found below:
-Table
+
 | type |title |link |
 |------|------|-----|
 |articles/blogs|xys|[link](xyz.com)|

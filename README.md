@@ -12,6 +12,7 @@ Here are some tools you will need to start learning python
 - [Python Interpreter](https://www.python.org/downloads/)
 - [Anaconda](https://www.anaconda.com/products/distribution)
 - [IDEs](https://code.visualstudio.com/download)
+
 Additonally, you can install packages using the following code on your terminal;
 - `_pip install numpy_`
 - `_pip install pandas_`
@@ -57,4 +58,8 @@ Some of the resources I learned from are found below:
 ## Appreciation
 Special thanks to many who believe knowledge should be free and work very hard to live by this beliefs, I am learning from you all. 
 You can help me contribute to this [repo](https://github.com/chisomloius/iLearnPY). Simply fork it and you are on your way home already 
+<<<<<<< HEAD
 to adding to a body of knowledge.
+=======
+to adding to a body of knowledge.
+>>>>>>> e00a622cc22bdc90e7a849d2705e0ad41ff0b461

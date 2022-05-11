@@ -12,7 +12,6 @@ Here are some tools you will need to start learning python
 - [Python Interpreter](https://www.python.org/downloads/)
 - [Anaconda](https://www.anaconda.com/products/distribution)
 - [IDEs](https://code.visualstudio.com/download)
-
 Additonally, you can install packages using the following code on your terminal;
 - `_pip install numpy_`
 - `_pip install pandas_`

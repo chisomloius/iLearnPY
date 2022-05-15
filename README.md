@@ -27,7 +27,7 @@ The  introduces the concepts with some code examples and the the latter help you
 
 |s/n|title|status (ticked/not-ticked)|
 |--|------|---------------------------|
-|1|[intro](xyz.com)|svae|
+|1|[intro](.)|svae|
 |2|[data_types](xyz.com)|svae|
 |3|[operators & conditionals](xyz.com)|svae|
 |4|[functions](xyz.com)|svae|

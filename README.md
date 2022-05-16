@@ -27,21 +27,21 @@ The  introduces the concepts with some code examples and the the latter help you
 
 |s/n|title|status (ticked/not-ticked)|
 |--|------|---------------------------|
-|1|[intro](.)|svae|
-|2|[data_types](xyz.com)|svae|
-|3|[operators & conditionals](xyz.com)|svae|
-|4|[functions](xyz.com)|svae|
-|5|[oop & orm](xyz.com)|svae|
+|1|[intro_to python]('.../1.Intro_to_Python_learn.ipynb')| - [x]|
+|2|[data_types](xyz.com)|- [ ]|
+|3|[operators & conditionals](xyz.com)|- [ ]|
+|4|[functions](xyz.com)|- [ ]|
+|5|[oop & orm](xyz.com)|- [ ]|
 
 - Practice Notebooks Tables
 
 |s/n|title|status (ticked/not-ticked)|
 |--|------|---------------------------|
-|1|[intro](xyz.com)|save|
-|2|[data_types](xyz.com)|save|
-|3|[operators & conditionals](xyz.com)|save|
-|4|[functions](xyz.com)|save|
-|5|[oop & orm](xyz.com)|svae|
+|1|[intro_to_python_practice]('.../1.Intro_to_Python_practice.ipynb')|- [x]|
+|2|[data_types](xyz.com)|- [ ]|
+|3|[operators & conditionals](xyz.com)|- [ ]|
+|4|[functions](xyz.com)|- [ ]|
+|5|[oop & orm](xyz.com)| -[ ]|
 
 ## Resources
 Some of the resources I learned from are found below:
@@ -58,8 +58,3 @@ Some of the resources I learned from are found below:
 ## Appreciation
 Special thanks to many who believe knowledge should be free and work very hard to live by this beliefs, I am learning from you all. 
 You can help me contribute to this [repo](https://github.com/chisomloius/iLearnPY). Simply fork it and you are on your way home already 
-<<<<<<< HEAD
-to adding to a body of knowledge.
-=======
-to adding to a body of knowledge.
->>>>>>> e00a622cc22bdc90e7a849d2705e0ad41ff0b461

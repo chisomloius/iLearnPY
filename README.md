@@ -1,7 +1,7 @@
 # Learning Python Now !
 <hr>
 <div>
-<p style="text-align:left"><img src="..../images/logo.png" width="200" height="200" /></p>
+<p style="text-align:left"><img src="../images/logo.png" width="200" height="200" /></p>
 </div>
 
 Like every great skills, learning  python programming can be very demanding and brain-nerving at least for many like myself. 

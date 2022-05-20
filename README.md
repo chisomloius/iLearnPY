@@ -1,11 +1,11 @@
 # Learning Python Now !
 <hr>
 <div>
-<p style="text-align:left"><img src="../images/logo.png" width="200" height="200" /></p>
+<p style="text-align:left"><img src="https://github.com/chisomloius/iLearnPY/issues/1#issue-1243749646" width="200" height="200" /></p>
 </div>
 
 Like every great skills, learning  python programming can be very demanding and brain-nerving at least for many like myself. 
-For attaining professional status, the stakes are higher, so I hope this [repo](). It was made for documentation purposes but
+For attaining professional status, the stakes are higher, so I hope this [repo](https://github.com/chisomloius/iLearnPY). It was made for documentation purposes but
 sharing them for any purpose such as teaching, learning or developing better things is a welcome solution. 
 You can find a simplified [Doc text](https://docs.google.com/document/d/1aOLqwUTdpQ0mBYYTsIEmiEV5K2bdEbWj27ihKbODoKw/edit?usp=sharing) if you wnat to study from multiple sources.
 
